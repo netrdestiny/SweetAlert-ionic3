@@ -1,0 +1,5 @@
+
+
+# Plugin
+
+$ npm install sweetalert
